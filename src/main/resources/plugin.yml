@@ -1,0 +1,5 @@
+name: B0ATPreventXYZConnection
+main: net.b0at.preventxyzconnection.B0ATPreventXYZConnection
+version: 0.3.0
+depend:
+- B0ATBasePlugin
